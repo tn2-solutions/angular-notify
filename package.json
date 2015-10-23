@@ -4,7 +4,8 @@
   "description": "A minimalistic notification service for angular.",
   "main":  "dist/angular-notify.js",
   "files": [
-    "dist"
+    "dist/angular-notify.css",
+    "dist/angular-notify.js"
   ],
   "repository": {
     "type": "git",
